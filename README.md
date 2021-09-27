@@ -1,4 +1,4 @@
-@tiptaptop/extension-indent
+# @tiptaptop/extension-indent
 
 Hi! This is an extension for [tiptap](https://github.com/ueberdosis/tiptap). It adds an indentation command and lets you indent/outdent certain elements.
 
