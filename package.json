@@ -1,8 +1,8 @@
 {
   "name": "@tiptaptop/extension-indent",
   "description": "indent extension for tiptap",
-  "version": "2.0.0-beta.1",
+  "version": "2.0.0-beta.2",
   "peerDependencies": {
-    "@tiptap/core": "^2.0.0-beta.1"
+    "@tiptap/core": "^2.0.0-beta.117"
   }
 }
