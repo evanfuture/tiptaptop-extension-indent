@@ -1,6 +1,5 @@
-/* eslint-disable @typescript-eslint/naming-convention */
 import { Command, Extension } from '@tiptap/core';
-import { TextSelection, AllSelection, Transaction } from 'prosemirror-state';
+import { AllSelection, TextSelection, Transaction } from 'prosemirror-state';
 
 export interface IndentOptions {
   types: string[];
